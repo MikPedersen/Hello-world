@@ -1,5 +1,5 @@
 # Hello-world
-Første gang
+Første gang.
 
 
-2. gangs ændringer
+2. gangs ændringer.
